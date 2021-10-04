@@ -3,7 +3,6 @@ from flask_cors import CORS, cross_origin
 import pickle
 import os
 from wsgiref import simple_server
-import flask_monitoringdashboard as dashboard
 from Raw_Data_Formater import Raw_Data_Formater
 from Data_Validator import data_validator
 from Preprocessing.preprocessing import Preprocessor
@@ -15,7 +14,6 @@ os.putenv('LC_ALL', 'en_US.UTF-8')
 log_writer = App_Logger()
 
 app = Flask(__name__)
-dashboard.bind(app)
 CORS(app)
 
 
