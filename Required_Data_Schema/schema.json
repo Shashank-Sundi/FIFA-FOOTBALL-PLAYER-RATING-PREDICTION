@@ -1,0 +1,21 @@
+{
+  "col_length": 29,
+  "col_names": ["potential", "preferred_foot", "attacking_work_rate",
+               "defensive_work_rate", "crossing", "finishing", "heading_accuracy",
+               "volleys", "curve", "free_kick_accuracy", "long_passing",
+               "ball_control", "sprint_speed", "agility", "reactions", "balance",
+               "shot_power", "jumping", "stamina", "strength", "long_shots",
+               "aggression", "interceptions", "positioning", "vision", "penalties",
+               "sliding_tackle", "gk_kicking", "gk_reflexes"],
+
+  "dtypes": ["float64","int64","object","object","float64","float64","float64"
+            ,"float64","float64","float64","float64","float64","float64","float64","float64","float64"
+            ,"float64","float64","float64","float64","float64","float64","float64","float64"
+            ,"float64","float64","float64","float64","float64"],
+
+  "removed_correlated_columns": [
+    "standing_tackle", "gk_diving", "marking", "dribbling",
+                            "gk_positioning", "acceleration", "short_passing", "gk_handling","overall_rating"
+  ]
+
+}

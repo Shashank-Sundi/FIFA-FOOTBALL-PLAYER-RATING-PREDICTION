@@ -1,0 +1,182 @@
+DATE : 2021-10-03--- TIME : 23:07:37		Started to format the data input from the html form
+DATE : 2021-10-03--- TIME : 23:07:37		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-03--- TIME : 23:07:32		Entered Home Page
+DATE : 2021-10-03--- TIME : 23:07:37		Extracted column length and column names from schema
+DATE : 2021-10-03--- TIME : 23:07:37		Column Length Validated
+DATE : 2021-10-03--- TIME : 23:07:37		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-03--- TIME : 23:07:39		Null Value Imputation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:07:37		Data Validation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:07:37		Column Names Validated
+DATE : 2021-10-03--- TIME : 23:07:39		Categorical Data Encoded Successfully
+DATE : 2021-10-03--- TIME : 23:07:38		Original Data Loaded Successfully
+DATE : 2021-10-03--- TIME : 23:17:50		Started to format the data input from the html form
+DATE : 2021-10-03--- TIME : 23:17:50		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-03--- TIME : 23:07:39		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-03--- TIME : 23:17:50		Extracted column length and column names from schema
+DATE : 2021-10-03--- TIME : 23:17:50		Column Length Validated
+DATE : 2021-10-03--- TIME : 23:17:50		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-03--- TIME : 23:17:51		Null Value Imputation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:17:50		Data Validation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:17:50		Column Names Validated
+DATE : 2021-10-03--- TIME : 23:17:51		Categorical Data Encoded Successfully
+DATE : 2021-10-03--- TIME : 23:17:51		Original Data Loaded Successfully
+DATE : 2021-10-03--- TIME : 23:18:05		Started to format the data input from the html form
+DATE : 2021-10-03--- TIME : 23:18:05		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-03--- TIME : 23:17:51		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-03--- TIME : 23:18:06		Extracted column length and column names from schema
+DATE : 2021-10-03--- TIME : 23:18:06		Column Length Validated
+DATE : 2021-10-03--- TIME : 23:18:05		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-03--- TIME : 23:18:07		Null Value Imputation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:18:06		Data Validation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:18:06		Column Names Validated
+DATE : 2021-10-03--- TIME : 23:18:07		Categorical Data Encoded Successfully
+DATE : 2021-10-03--- TIME : 23:18:07		Original Data Loaded Successfully
+DATE : 2021-10-03--- TIME : 23:19:39		Started to format the data input from the html form
+DATE : 2021-10-03--- TIME : 23:19:39		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-03--- TIME : 23:18:07		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-03--- TIME : 23:19:39		Extracted column length and column names from schema
+DATE : 2021-10-03--- TIME : 23:19:39		Column Length Validated
+DATE : 2021-10-03--- TIME : 23:19:39		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-03--- TIME : 23:19:40		Null Value Imputation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:19:39		Data Validation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:19:39		Column Names Validated
+DATE : 2021-10-03--- TIME : 23:19:40		Categorical Data Encoded Successfully
+DATE : 2021-10-03--- TIME : 23:19:39		Original Data Loaded Successfully
+DATE : 2021-10-03--- TIME : 23:24:56		Started to format the data input from the html form
+DATE : 2021-10-03--- TIME : 23:24:56		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-03--- TIME : 23:19:40		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-03--- TIME : 23:24:57		Extracted column length and column names from schema
+DATE : 2021-10-03--- TIME : 23:24:57		Column Length Validated
+DATE : 2021-10-03--- TIME : 23:24:56		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-03--- TIME : 23:24:58		Null Value Imputation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:24:57		Data Validation Completed Successfully
+DATE : 2021-10-03--- TIME : 23:24:57		Column Names Validated
+DATE : 2021-10-03--- TIME : 23:24:58		Categorical Data Encoded Successfully
+DATE : 2021-10-03--- TIME : 23:24:57		Original Data Loaded Successfully
+DATE : 2021-10-03--- TIME : 23:24:58		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-04--- TIME : 09:17:12		Entered Home Page
+DATE : 2021-10-04--- TIME : 09:17:39		Started to format the data input from the html form
+DATE : 2021-10-04--- TIME : 09:17:40		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-04--- TIME : 09:17:19		Entered Home Page
+DATE : 2021-10-04--- TIME : 09:17:40		Extracted column length and column names from schema
+DATE : 2021-10-04--- TIME : 09:17:40		Column Length Validated
+DATE : 2021-10-04--- TIME : 09:17:40		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-04--- TIME : 09:17:43		Null Value Imputation Completed Successfully
+DATE : 2021-10-04--- TIME : 09:17:40		Data Validation Completed Successfully
+DATE : 2021-10-04--- TIME : 09:17:40		Column Names Validated
+DATE : 2021-10-04--- TIME : 09:17:43		Categorical Data Encoded Successfully
+DATE : 2021-10-04--- TIME : 09:17:42		Original Data Loaded Successfully
+DATE : 2021-10-04--- TIME : 09:52:25		Started to format the data input from the html form
+DATE : 2021-10-04--- TIME : 09:52:26		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-04--- TIME : 09:52:16		Entered Home Page
+DATE : 2021-10-04--- TIME : 09:52:26		Extracted column length and column names from schema
+DATE : 2021-10-04--- TIME : 09:52:26		Column Length Validated
+DATE : 2021-10-04--- TIME : 09:52:26		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-04--- TIME : 09:52:31		Null Value Imputation Completed Successfully
+DATE : 2021-10-04--- TIME : 09:52:26		Data Validation Completed Successfully
+DATE : 2021-10-04--- TIME : 09:52:26		Column Names Validated
+DATE : 2021-10-04--- TIME : 09:52:31		Categorical Data Encoded Successfully
+DATE : 2021-10-04--- TIME : 09:52:30		Original Data Loaded Successfully
+DATE : 2021-10-04--- TIME : 09:52:48		Started to format the data input from the html form
+DATE : 2021-10-04--- TIME : 09:52:48		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-04--- TIME : 09:52:31		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-04--- TIME : 09:52:48		Extracted column length and column names from schema
+DATE : 2021-10-04--- TIME : 09:52:48		Column Length Validated
+DATE : 2021-10-04--- TIME : 09:52:48		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-04--- TIME : 09:52:51		Null Value Imputation Completed Successfully
+DATE : 2021-10-04--- TIME : 09:52:48		Data Validation Completed Successfully
+DATE : 2021-10-04--- TIME : 09:52:48		Column Names Validated
+DATE : 2021-10-04--- TIME : 09:52:51		Categorical Data Encoded Successfully
+DATE : 2021-10-04--- TIME : 09:52:49		Original Data Loaded Successfully
+DATE : 2021-10-04--- TIME : 09:53:57		Started to format the data input from the html form
+DATE : 2021-10-04--- TIME : 09:53:57		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-04--- TIME : 09:52:51		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-04--- TIME : 09:53:57		Extracted column length and column names from schema
+DATE : 2021-10-04--- TIME : 09:53:57		Column Length Validated
+DATE : 2021-10-04--- TIME : 09:53:57		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-04--- TIME : 09:53:58		Null Value Imputation Completed Successfully
+DATE : 2021-10-04--- TIME : 09:53:57		Data Validation Completed Successfully
+DATE : 2021-10-04--- TIME : 09:53:57		Column Names Validated
+DATE : 2021-10-04--- TIME : 09:53:58		Categorical Data Encoded Successfully
+DATE : 2021-10-04--- TIME : 09:53:58		Original Data Loaded Successfully
+DATE : 2021-10-04--- TIME : 10:17:14		Entered Home Page
+DATE : 2021-10-04--- TIME : 10:18:10		Started to format the data input from the html form
+DATE : 2021-10-04--- TIME : 10:18:10		Collected inputs from HTML form
+DATE : 2021-10-04--- TIME : 10:18:10		Aggregated data inputs from user
+DATE : 2021-10-04--- TIME : 10:18:10		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-04--- TIME : 10:18:10		Prediction Process Started
+DATE : 2021-10-04--- TIME : 10:18:10		Extracted column length and column names from schema
+DATE : 2021-10-04--- TIME : 10:18:10		Column Length Validated
+DATE : 2021-10-04--- TIME : 10:18:10		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-04--- TIME : 10:18:13		Categorical columns imputed successfully
+DATE : 2021-10-04--- TIME : 10:18:13		Numerical Columns imputed successfully
+DATE : 2021-10-04--- TIME : 10:18:13		Null Value Imputation Completed Successfully
+DATE : 2021-10-04--- TIME : 10:18:10		Data Validation Completed Successfully
+DATE : 2021-10-04--- TIME : 10:18:13		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-04--- TIME : 10:18:15		XGBoost Model Loaded successfully
+DATE : 2021-10-04--- TIME : 10:18:10		Column Names Validated
+DATE : 2021-10-04--- TIME : 10:18:13		Categorical Data Encoded Successfully
+DATE : 2021-10-04--- TIME : 10:18:13		Original Data Loaded Successfully
+DATE : 2021-10-04--- TIME : 10:22:26		Prediction Process Started
+DATE : 2021-10-04--- TIME : 10:22:26		Started to format the data input from the html form
+DATE : 2021-10-04--- TIME : 10:22:26		Collected inputs from HTML form
+DATE : 2021-10-04--- TIME : 10:22:27		Aggregated data inputs from user
+DATE : 2021-10-04--- TIME : 10:22:27		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-04--- TIME : 10:22:07		Entered Home Page
+
+
+
+DATE : 2021-10-04--- TIME : 10:22:27		Extracted column length and column names from schema
+DATE : 2021-10-04--- TIME : 10:22:27		Column Length Validated
+DATE : 2021-10-04--- TIME : 10:22:27		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-04--- TIME : 10:22:29		Categorical columns imputed successfully
+DATE : 2021-10-04--- TIME : 10:22:31		Numerical Columns imputed successfully
+DATE : 2021-10-04--- TIME : 10:22:31		Null Value Imputation Completed Successfully
+DATE : 2021-10-04--- TIME : 10:22:27		Data Validation Completed Successfully
+DATE : 2021-10-04--- TIME : 10:22:31		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-04--- TIME : 10:22:32		XGBoost Model Loaded successfully
+DATE : 2021-10-04--- TIME : 10:22:27		Column Names Validated
+DATE : 2021-10-04--- TIME : 10:22:31		Categorical Data Encoded Successfully
+DATE : 2021-10-04--- TIME : 10:22:29		Original Data Loaded Successfully
+DATE : 2021-10-04--- TIME : 10:23:43		Prediction Process Started
+DATE : 2021-10-04--- TIME : 10:23:43		Started to format the data input from the html form
+DATE : 2021-10-04--- TIME : 10:23:43		Collected inputs from HTML form
+DATE : 2021-10-04--- TIME : 10:23:43		Aggregated data inputs from user
+DATE : 2021-10-04--- TIME : 10:23:43		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-04--- TIME : 10:22:32		Prediction for the given data created successfully 
+
+
+
+DATE : 2021-10-04--- TIME : 10:23:43		Extracted column length and column names from schema
+DATE : 2021-10-04--- TIME : 10:23:43		Column Length Validated
+DATE : 2021-10-04--- TIME : 10:23:43		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-04--- TIME : 10:23:45		Categorical columns imputed successfully
+DATE : 2021-10-04--- TIME : 10:23:47		Numerical Columns imputed successfully
+DATE : 2021-10-04--- TIME : 10:23:47		Null Value Imputation Completed Successfully
+DATE : 2021-10-04--- TIME : 10:23:43		Data Validation Completed Successfully
+DATE : 2021-10-04--- TIME : 10:23:48		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-04--- TIME : 10:23:48		XGBoost Model Loaded successfully
+DATE : 2021-10-04--- TIME : 10:23:43		Column Names Validated
+DATE : 2021-10-04--- TIME : 10:23:47		Categorical Data Encoded Successfully
+DATE : 2021-10-04--- TIME : 10:23:45		Original Data Loaded Successfully
+DATE : 2021-10-04--- TIME : 10:29:29		Prediction Process Started
+DATE : 2021-10-04--- TIME : 10:29:29		Started to format the data input from the html form
+DATE : 2021-10-04--- TIME : 10:29:29		Collected inputs from HTML form
+DATE : 2021-10-04--- TIME : 10:29:29		Aggregated data inputs from user
+DATE : 2021-10-04--- TIME : 10:29:29		Raw data aggregated and converted to DataFrame
+DATE : 2021-10-04--- TIME : 10:23:49		Prediction for the given data created successfully 
+
+
+
+DATE : 2021-10-04--- TIME : 10:29:29		Extracted column length and column names from schema
+DATE : 2021-10-04--- TIME : 10:29:29		Column Length Validated
+DATE : 2021-10-04--- TIME : 10:29:29		Data Aggregation and Formatting Completed Successfully
+DATE : 2021-10-04--- TIME : 10:29:31		Categorical columns imputed successfully
+DATE : 2021-10-04--- TIME : 10:29:31		Numerical Columns imputed successfully
+DATE : 2021-10-04--- TIME : 10:29:31		Null Value Imputation Completed Successfully
+DATE : 2021-10-04--- TIME : 10:29:29		Data Validation Completed Successfully
+DATE : 2021-10-04--- TIME : 10:29:31		Preprocessing and Transformation of Data Completed Successfully
+DATE : 2021-10-04--- TIME : 10:29:32		XGBoost Model Loaded successfully
+DATE : 2021-10-04--- TIME : 10:29:29		Column Names Validated
+DATE : 2021-10-04--- TIME : 10:29:31		Categorical Data Encoded Successfully
+DATE : 2021-10-04--- TIME : 10:29:31		Original Data Loaded Successfully
