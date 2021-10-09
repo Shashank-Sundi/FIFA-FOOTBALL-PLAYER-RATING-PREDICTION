@@ -15,7 +15,7 @@ The model has been deployed using REST API using flask, on Heroku :
 
 Database File : https://www.kaggle.com/hugomathien/soccer
 
-Python Notebook : https://github.com/Shashank-Sundi/Assignments/blob/main/Football%20Player%20Rating%20Prediction/Football%20Player%20Rating%20Prediction.ipynb
+Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/Football%20Player%20Rating%20Prediction.ipynb
 
 ## 
 ## Project Description
