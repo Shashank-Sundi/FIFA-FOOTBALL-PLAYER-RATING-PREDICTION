@@ -1,15 +1,22 @@
 # FIFA-FOOTBALL-PLAYER-RATING-PREDICTION
-Machine Learning Project for predicting the Ratings of football players in FIFA .
+
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]( https://fifa-soccer-player-rating-pred.herokuapp.com/)&nbsp;
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)&nbsp;
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">&nbsp;
+![GitHub repo size](https://img.shields.io/github/repo-size/Shashank-Sundi/FIFA-FOOTBALL-PLAYER-RATING-PREDICTION)&nbsp;
+![Lines of code](https://img.shields.io/tokei/lines/github/Shashank-Sundi/FIFA-FOOTBALL-PLAYER-RATING-PREDICTION?style=flat)
+
+Machine Learning Project for predicting the Ratings of football players in FIFA 
 
 
-<img src="./static/images/fifa.jpg" alt="FIFA" style="height: 350px; width:700px;"/>
+<img src="static\images\guglielmo-basile-ikz8R6LGbK8-unsplash.jpg" alt="FIFA" />
 
 ## Deployment
 
 The model has been deployed using REST API using flask, on Heroku : 
  https://fifa-soccer-player-rating-pred.herokuapp.com/
 
-
+<hr>
 
   ## Original Dataset and Python Notebook
 
@@ -17,12 +24,15 @@ Database File : https://www.kaggle.com/hugomathien/soccer
 
 Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/Football%20Player%20Rating%20Prediction.ipynb
 
-## 
+<hr>
+
 ## Project Description
 
 | PROBLEM | MODELS USED  |LIBRARIES USED   |
 | :-------- | :------- | :------------------------- |
 | **Predicting the ratings of players in FIFA**| `XGBOOST,LINEAR-REG ,KMEANS ,KNN ,RANDOM FOREST ,DECISION TREE ,SVR ` | **Sklearn , Seaborn ,Pandas ,Scipy ,Sqlite3, math ,Xgboost** |
+
+<hr>
 
 ## Project Execution
 
@@ -55,6 +65,7 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/Football
 |7| Built html pages for data input and results prediction
 |8| Deployed the model on Heroku via Git Bash terminal
 
+<hr>
 
 ## Screenshots
 
@@ -66,11 +77,13 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/Football
 
 <img src="static\images\predpage.PNG" alt="FIFA" style="height: 300px; width:700px;"/>
 
+<hr>
   
 ## Contact
 
-- Email : [sundi.sn@gmail.com](mailto:sundi.sn@gmail.com) | [shashanksundi@iitkgp.ac.in](mailto:shashanksundi@iitkgp.ac.in)
 
-- Github Profile : [@Shashank-Sundi](https://github.com/Shashank-Sundi) 
+<a href="https://www.linkedin.com/in/shashank-sundi-4b78561b1"> ![alt text](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>&emsp;
+<a href="https://www.instagram.com/shashank_sundi13/">![alt text](https://img.shields.io/badge/Shashank_Sundi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>&emsp;
+<a href="mailto:sundi.sn@gmail.com">![alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-sundi-4b78561b1)
+<hr>
